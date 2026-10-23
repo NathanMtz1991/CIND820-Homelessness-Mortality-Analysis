@@ -1,0 +1,144 @@
+_id,Year of death,Setting of incident,Age,Gender,Count
+1,2024,Shelter,<20,Female,Suppressed
+2,2023,Shelter,Unknown,Unknown,1
+3,2024,Shelter,<20,Male,Suppressed
+4,2022,Other,40-59,Female,2
+5,2024,Hospital / Clinic,60+,Female,3
+6,2022,Public Building,20-39,Female,2
+7,2024,Shelter,20-39,Transgender,Suppressed
+8,2023,Outdoors,20-39,Transgender,Suppressed
+9,2022,Unknown,60+,Male,13
+10,2022,Public Building,60+,Female,2
+11,2024,Unknown,20-39,Male,2
+12,2023,Outdoors,60+,Male,8
+13,2022,Public Building,40-59,Male,10
+14,2022,Private Residence,40-59,Male,13
+15,2022,Hospital / Clinic,40-59,Male,13
+16,2023,Hospital / Clinic,60+,Female,2
+17,2023,Unknown,Unknown,Female,1
+18,2024,Hospital / Clinic,20-39,Female,1
+19,2024,Hospital / Clinic,60+,Transgender,Suppressed
+20,2024,Unknown,Unknown,Female,1
+21,2023,Other,40-59,Female,1
+22,2022,Outdoors,60+,Male,9
+23,2023,Outdoors,40-59,Male,32
+24,2024,Hospital / Clinic,40-59,Male,10
+25,2023,Unknown,20-39,Female,1
+26,2022,Public Building,60+,Male,3
+27,2023,Other,20-39,Female,1
+28,2023,Private Residence,40-59,Female,3
+29,2023,Other,20-39,Male,5
+30,2023,Private Residence,20-39,Female,4
+31,2023,Shelter,Unknown,Female,1
+32,2024,Other,40-59,Female,1
+33,2023,Private Residence,20-39,Unknown,1
+34,2022,Hospital / Clinic,<20,Female,Suppressed
+35,2023,Shelter,40-59,Female,8
+36,2022,Private Residence,20-39,Female,10
+37,2024,Public Building,20-39,Male,4
+38,2024,Shelter,20-39,Female,3
+39,2024,Unknown,40-59,Male,1
+40,2023,Shelter,60+,Male,17
+41,2024,Outdoors,Unknown,Male,1
+42,2023,Hospital / Clinic,40-59,Female,6
+43,2024,Private Residence,40-59,Female,1
+44,2022,Outdoors,60+,Female,1
+45,2022,Shelter,Unknown,Male,1
+46,2024,Pending,40-59,Male,1
+47,2022,Public Building,<20,Female,Suppressed
+48,2022,Outdoors,20-39,Female,4
+49,2022,Outdoors,40-59,Male,19
+50,2022,Other,40-59,Male,1
+51,2024,Public Building,40-59,Male,9
+52,2023,Hospital / Clinic,20-39,Transgender,Suppressed
+53,2023,Hospital / Clinic,60+,Male,17
+54,2022,Private Residence,60+,Male,11
+55,2022,Outdoors,20-39,Transgender,Suppressed
+56,2024,Outdoors,60+,Male,5
+57,2022,Private Residence,Unknown,Male,1
+58,2024,Outdoors,20-39,Unknown,1
+59,2024,Public Building,<20,Female,Suppressed
+60,2024,Other,60+,Male,1
+61,2023,Hospital / Clinic,40-59,Male,14
+62,2023,Shelter,40-59,Male,30
+63,2024,Outdoors,20-39,Male,14
+64,2024,Hospital / Clinic,60+,Male,8
+65,2024,Unknown,Unknown,Male,5
+66,2023,Private Residence,60+,Male,6
+67,2022,Shelter,20-39,Female,10
+68,2023,Public Building,40-59,Female,4
+69,2024,Shelter,40-59,Female,3
+70,2023,Private Residence,<20,Female,Suppressed
+71,2022,Unknown,Unknown,Male,6
+72,2024,Other,20-39,Female,1
+73,2023,Unknown,60+,Male,7
+74,2024,Outdoors,60+,Female,1
+75,2022,Hospital / Clinic,40-59,Female,5
+76,2024,Hospital / Clinic,20-39,Male,5
+77,2024,Shelter,40-59,Male,15
+78,2022,Shelter,60+,Male,16
+79,2023,Outdoors,Unknown,Male,2
+80,2024,Other,Unknown,Male,1
+81,2024,Public Building,60+,Female,1
+82,2022,Outdoors,20-39,Male,20
+83,2024,Private Residence,40-59,Male,12
+84,2022,Unknown,Unknown,Female,1
+85,2023,Public Building,20-39,Female,1
+86,2022,Outdoors,Unknown,Male,3
+87,2024,Private Residence,60+,Male,9
+88,2023,Public Building,20-39,Male,8
+89,2022,Unknown,Unknown,Unknown,1
+90,2022,Shelter,20-39,Male,18
+91,2023,Public Building,40-59,Male,12
+92,2023,Unknown,Unknown,Male,3
+93,2024,Unknown,60+,Male,2
+94,2022,Hospital / Clinic,20-39,Male,3
+95,2023,Private Residence,20-39,Male,9
+96,2023,Private Residence,60+,Female,1
+97,2022,Shelter,40-59,Male,47
+98,2023,Other,60+,Male,3
+99,2024,Outdoors,20-39,Female,8
+100,2024,Public Building,60+,Male,1
+101,2023,Other,40-59,Male,6
+102,2023,Outdoors,20-39,Female,7
+103,2022,Shelter,60+,Female,5
+104,2022,Hospital / Clinic,60+,Male,14
+105,2022,Other,60+,Male,4
+106,2023,Hospital / Clinic,20-39,Female,5
+107,2023,Private Residence,40-59,Male,10
+108,2022,Unknown,20-39,Male,3
+109,2023,Unknown,20-39,Male,1
+110,2022,Outdoors,Unknown,Unknown,1
+111,2023,Hospital / Clinic,20-39,Male,5
+112,2024,Private Residence,20-39,Female,7
+113,2022,Outdoors,40-59,Female,5
+114,2023,Shelter,60+,Female,2
+115,2024,Shelter,40-59,Transgender,Suppressed
+116,2024,Shelter,60+,Female,3
+117,2024,Other,20-39,Male,3
+118,2022,Shelter,40-59,Female,8
+119,2023,Shelter,20-39,Female,4
+120,2022,Hospital / Clinic,20-39,Transgender,Suppressed
+121,2022,Private Residence,20-39,Male,11
+122,2024,Shelter,60+,Male,4
+123,2024,Shelter,20-39,Male,9
+124,2022,Public Building,20-39,Male,5
+125,2024,Private Residence,20-39,Male,8
+126,2023,Unknown,40-59,Male,2
+127,2022,Hospital / Clinic,Unknown,Male,1
+128,2023,Outdoors,40-59,Female,3
+129,2024,Outdoors,40-59,Transgender,Suppressed
+130,2024,Hospital / Clinic,40-59,Female,1
+131,2022,Private Residence,40-59,Female,2
+132,2022,Private Residence,<20,Male,Suppressed
+133,2023,Outdoors,20-39,Male,25
+134,2022,Shelter,<20,Male,Suppressed
+135,2022,Hospital / Clinic,60+,Female,7
+136,2022,Other,20-39,Male,3
+137,2022,Hospital / Clinic,20-39,Female,2
+138,2024,Outdoors,40-59,Male,32
+139,2022,Hospital / Clinic,<20,Male,Suppressed
+140,2024,Public Building,20-39,Female,3
+141,2022,Unknown,40-59,Male,4
+142,2024,Outdoors,40-59,Female,6
+143,2023,Shelter,20-39,Male,19
