@@ -232,3 +232,22 @@ These metrics were used to compare predictive accuracy between Linear Regression
 This project was completed for academic purposes as part of the CIND820 Applied Data Science course.
 
 Datasets remain the property of the City of Toronto Open Data Portal and are used under their applicable open data licensing terms.
+
+AI Productivity Declaration
+Generative AI tools were used throughout this project as a productivity aid to support learning, code development, documentation, and analytical workflow design.
+
+AI-assisted activities included:
+
+Brainstorming and refining research questions related to homelessness, shelter-system conditions, and mortality trends in Toronto.
+Reviewing the suitability of City of Toronto Open Data datasets for addressing the project objectives.
+Assisting with the design of the analytical workflow and methodology presented in Milestone 1 and refined in Milestone 2.
+Generating example Python code for data loading, cleaning, integration, descriptive statistics, exploratory analysis, visualization, correlation analysis, feature engineering, and predictive modeling.
+Assisting with the development and organization of the Google Colab notebook into a reproducible and maintainable workflow.
+Suggesting reusable Python functions to improve modularity and code quality.
+Assisting with troubleshooting coding errors, improving code readability, and verifying analytical logic.
+Supporting the preparation of project documentation, including report structure, figure placement, table formatting, README documentation, repository organization, and reproducibility instructions.
+Providing explanations of machine learning concepts, evaluation metrics (MAE, RMSE, and R²), model interpretation, and methodological limitations.
+AI-generated code and recommendations were not accepted automatically. Multiple prompts were iteratively refined to explore alternative implementations and improve solution quality. All code was manually reviewed, tested, modified where necessary, and executed by the author using Google Colab.
+
+The author independently verified dataset sources, validated analytical outputs, reviewed model results, interpreted findings, and prepared the final conclusions. Full responsibility for the accuracy of the code, analysis, results, and submitted work remains with the author.
+
